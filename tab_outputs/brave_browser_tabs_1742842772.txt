@@ -1,0 +1,83 @@
+Window 1:
+https://www.tomshardware.com/software/linux/minimal-linux-os-runs-in-a-6mb-pdf-document-in-chrome-linuxpdf-leverages-risc-v-emulator
+
+Window 2:
+https://realpython.com/intro-to-pyenv/
+
+Window 3:
+https://www.youtube.com/watch?v=mC76YxBpwAQ
+https://m.media-amazon.com/images/I/41cG9w2m7NL._UX300undefined_.jpg
+https://images-na.ssl-images-amazon.com/images/I/61-N4+RCpzL._AC_UL232_SR232,232_.jpg
+https://images-na.ssl-images-amazon.com/images/I/61bx2gKdfCL._AC_UL232_SR232,232_.jpg
+
+Window 4:
+https://www.youtube.com/watch?v=RiPWMhfQUxs
+
+Window 5:
+https://www.zerohedge.com/
+https://store.zerohedge.com/?utm_source=banner&utm_medium=banner&utm_campaign=store_promo&utm_content=sidebar
+https://github.com/newren/git-filter-repo
+https://htmlpreview.github.io/?https://github.com/newren/git-filter-repo/blob/docs/html/git-filter-repo.html
+https://www.amazon.com/s?crid=GBVEMP8HWC8K&k=water%20balloons&ref=glow_cls&refresh=1&sprefix=water%20balloons%2Caps%2C199
+https://www.imdb.com/title/tt0306414/?ref_=nv_sr_srsg_0_tt_7_nm_1_in_0_q_the%2520wire
+https://courses.lumenlearning.com/suny-introliterature/
+https://www.poetryfoundation.org/poems/45536/ode-intimations-of-immortality-from-recollections-of-early-childhood
+
+Window 6:
+https://www.rsvlts.com/collections/wall-e/products/disney-pixar-wall-e-wall-of-fame-kunuflex-short-sleeve-shirt
+https://www.rsvlts.com/collections/mens-bamboo-apparel
+https://www.rsvlts.com/collections/mens-bamboo-apparel/products/check-it-out-bamboo-short-sleeve-shirt
+https://www.reddit.com/r/IsItBullshit/comments/1b3oz2x/isitbullshit_marked_up_shirt_from_chinese/
+https://www.rsvlts.com/collections/mens-short-sleeve-shirts/products/hifi-kunuflex-short-sleeve-shirt
+https://www.rsvlts.com/collections/mens-short-sleeve-shirts/products/pixar-far-out-mashup-kunuflex-short-sleeve-shirt
+https://www.rsvlts.com/collections/mens-short-sleeve-shirts/products/the-scorekeeper-kunuflex-short-sleeve-shirt
+https://www.rsvlts.com/collections/mens-short-sleeve-shirts/products/disney-haunted-mansion-grim-grinning-graveyard-kunuflex-short-sleeve-shirt
+https://www.rsvlts.com/collections/mens-short-sleeve-shirts/products/disney-pixar-toy-story-pizza-planet-crane-escape-kunuflex-short-sleeve-shirt
+https://www.rsvlts.com/collections/mens-short-sleeve-shirts/products/disney-pixar-finding-nemo-mine-kunuflex-short-sleeve-shirt
+https://www.rsvlts.com/collections/mens-short-sleeve-shirts/products/disney-villains-terrible-trinkets-kunuflex-short-sleeve-shirt
+https://www.rsvlts.com/collections/mens-bamboo-apparel/products/check-it-out-bamboo-short-sleeve-shirt
+https://www.rsvlts.com/collections/warner-bros/products/harry-potter-mischief-managed-kunuflex-short-sleeve-shirt
+https://www.rsvlts.com/collections/warner-bros/products/batman-little-wayne-kunuflex-short-sleeve-shirt
+https://www.rsvlts.com/collections/mens-new/products/disney-and-pixar-toy-story-cleared-to-enter-kunuflex-short-sleeve-shirt
+https://www.rsvlts.com/collections/mens-new/products/disney-and-pixar-toy-story-howdy-howdy-howdy-roper-short-sleeve-shirt
+https://www.rsvlts.com/collections/spongebob-square-pants/products/spongebob-squarepants-no-this-is-patrick-kunuflex-short-sleeve-shirt
+
+Window 7:
+https://privategpt.dev/
+https://docs.privategpt.dev/overview/welcome/introduction
+https://discord.com/channels/@me/
+https://github.com/johnousterhout/aposd-vs-clean-code
+https://www.zylon.ai/privategpt
+https://search.brave.com/search?q=fastAPI&source=desktop
+https://search.brave.com/search?q=uvicorn.error+-+Started+server+process+%5B69705%5D&source=desktop&summary=1&conversation=4a3bf0ed21794839264608
+https://stackoverflow.com/questions/68740136/how-to-log-the-error-message-instead-of-infouvicorn-errorapplication-in-uvicor
+https://search.brave.com/search?q=pylance+import+uvicorn+could+not+be+resolved.&source=desktop&summary=1&conversation=381b2ac104f8bc6087a3a1
+
+Window 8:
+https://archive.org/details/@shonondray
+https://www.reuters.com/
+
+Window 9:
+https://medium.com/@jordanne_76409/how-the-wire-taught-me-encryption-131265bbc0c
+https://www.amazon.com/Richest-Man-Babylon-Original-Classics/dp/1954839499/ref=crc_cko_cp_exports_d_sccl_1_5/131-2503327-9966928?pd_rd_w=J5hS9&content-id=amzn1.sym.87ed2663-f946-4907-8e5f-cb66f965d6d2&pf_rd_p=87ed2663-f946-4907-8e5f-cb66f965d6d2&pf_rd_r=Q9Q6V2NSP6EG163KCY70&pd_rd_wg=IP3Ij&pd_rd_r=781000e5-bcd4-4e6a-80fb-bd235cd9fffc&pd_rd_i=1954839499&psc=1
+https://www.amazon.com/gp/product/B09WKXLPNN/ref=ewc_pr_img_4?smid=A9PNVEYVLGW7N&th=1
+https://www.jbsa.mil/Portals/102/Documents/Protocol/AFDPG%202012_General%20Officer%20Handbook%20WEB3_edited%2018%20Sep%2012_LK.pdf?ver=2015-06-12-101949-990
+https://theysaidwhat.net/2018/11/20/yes-yes-of-course-the-penske-file/
+https://www.bwb.co.nz/texts
+https://marketplace.visualstudio.com/items?itemName=kube.theme-kay
+https://shd101wyy.github.io/markdown-preview-enhanced/#/puppeteer
+
+Window 10:
+https://www.youtube.com/watch?v=FGp4pGMWaTE
+
+Window 11:
+https://www.prefect.io/
+
+Window 12:
+https://redact.dev/
+
+Window 13:
+https://www.axios.com/2025/03/24/23andme-bankruptcy-buyer
+
+Window 14:
+https://www.youtube.com/shorts/NZBxq42VJMg
